@@ -1,0 +1,16 @@
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\ILAnalyzer.exe.config
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\ILAnalyzer.exe
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\ILAnalyzer.pdb
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\Mono.Cecil.dll
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\Mono.Cecil.Mdb.dll
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\Mono.Cecil.Pdb.dll
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\Mono.Cecil.Rocks.dll
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\Mono.Cecil.pdb
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\Mono.Cecil.Mdb.pdb
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\Mono.Cecil.Pdb.pdb
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\bin\Release\Mono.Cecil.Rocks.pdb
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\obj\Release\ILAnalyzer.csproj.AssemblyReference.cache
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\obj\Release\ILAnalyzer.csproj.CoreCompileInputs.cache
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\obj\Release\ILAnalyzer.csproj.CopyComplete
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\obj\Release\ILAnalyzer.exe
+C:\Andi\Projects\dotnet\ILAnalyzer\ILAnalyzer\obj\Release\ILAnalyzer.pdb
